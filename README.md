@@ -23,10 +23,10 @@ Before running the project, ensure you have the following installed:
 
 2. Make sure you have installed the required libraries mentioned in the "Prerequisites" section.
 
-3. Run the `main.py` file using the following command:
+3. Run the `file.py` file using the following command:
 
     ```
-    python main.py
+    python file.py
     ```
 
 4. The application window will open, allowing you to set your custom notifications.
